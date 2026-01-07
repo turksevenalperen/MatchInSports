@@ -1,0 +1,5 @@
+[providers]
+dotnet = true
+
+[variables]
+DOTNET_VERSION = "8.0"

@@ -1,4 +1,2 @@
-providers = ["dotnet"]
-
 [variables]
 DOTNET_VERSION = "8.0"
